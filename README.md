@@ -1,7 +1,9 @@
 # rapid-crn-input
 Script that inputs CRNs almost instantly
 
-**IMPORTANT NOTE:**
+**IMPORTANT NOTES:**
+This script is intented for Michigan Technological Students. Go Huskies.
+
  You MUST have AutoHotKey installed for the script to run. Go to https://www.autohotkey.com/download/ to download it if you don't have it. Also, please read through the whole README before using the script.
  To run the script, just double-click on the file.
 
