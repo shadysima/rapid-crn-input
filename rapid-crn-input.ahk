@@ -1,4 +1,4 @@
-﻿!esc::exitapp
+﻿`::exitapp
 
 ;-----------------------------------------------------------------------
 
@@ -15,11 +15,12 @@ return
 
 !x::
 
-loop, X
-{
+loop, X {
+
 	send, ^a
 	send, {backspace}
 	send, {tab}
+	
 }
 return
 
