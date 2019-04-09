@@ -9,7 +9,7 @@ Script that inputs CRNs almost instantly
  There are 3 hotkeys associated with this script (see EDITING for more information):
   1) ALT + C will execute the Rapid Input
   2) ALT + X will execute the Rapid Delete
-  3) Alt + Esc will terminate the script
+  3) The Tilde Key (~) will terminate the script (key directly left to the "1" key; just press it, don't Shift + press it)
 
 **EDITING:**
  Even if you have no idea on how to write script code for AutoHotKey, you will still need to edit the script to plug in your CRNs.
