@@ -2,7 +2,8 @@
 Script that inputs CRNs almost instantly
 
 **IMPORTANT NOTE:**
- You MUST have AutoHotKey installed for the script to run. Go to https://www.autohotkey.com/download/ to download it if you don't have it.
+ You MUST have AutoHotKey installed for the script to run. Go to https://www.autohotkey.com/download/ to download it if you don't have it. Also, please read through the whole README before using the script.
+ To run the script, just double-click on the file.
 
 **HOTKEYS:**
  There are 3 hotkeys associated with this script (see EDITING for more information):
