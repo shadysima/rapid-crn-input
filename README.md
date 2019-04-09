@@ -1,17 +1,17 @@
 # rapid-crn-input
 Script that inputs CRNs almost instantly
 
-**IMPORTANT NOTE: **
-You MUST have AutoHotKey installed for the script to run. Go to https://www.autohotkey.com/download/ to download it if you don't have it.
+**IMPORTANT NOTE:**
+ You MUST have AutoHotKey installed for the script to run. Go to https://www.autohotkey.com/download/ to download it if you don't have it.
 
-**HOTKEYS: **
-There are 3 hotkeys associated with this script (see EDITING for more information):
+**HOTKEYS:**
+ There are 3 hotkeys associated with this script (see EDITING for more information):
   1) ALT + C will execute the Rapid Input
   2) ALT + X will execute the Rapid Delete
   3) Alt + Esc will terminate the script
 
-**EDITING: **
-Even if you have no idea on how to write script code for AutoHotKey, you will still need to edit the script to plug in your CRNs.
+**EDITING:**
+ Even if you have no idea on how to write script code for AutoHotKey, you will still need to edit the script to plug in your CRNs.
 To edit the script, right click on the .ahk file and select "Open With..." -> "Notepad" (or you could use any editor of your choice).
 
 On line 7 there is a statement initializing an empty array called "crn". Add your desired CRNs inside the square brackets on line 7 and make sure the CRNs are separated with commas.
@@ -21,7 +21,7 @@ If you would like to use the Rapid Delete feature, then move down the script to 
 
 Finally, if you do know how to write script code for AutoHotKey, then feel free to do whatever with the script. I'm not the script police.
 
-**CONTACT: **
-If you have any questions or encounter any errors / bugs in the scripting, feel free to contact me:
+**CONTACT:**
+ If you have any questions or encounter any errors / bugs in the scripting, feel free to contact me:
 via Email -> nschultz@mtu.edu
 via Discord -> nick nack#4668
